@@ -9,8 +9,8 @@ since i tend to reinstall windows really often i coded a little script in python
 allow to create `UEFI applications`/`Dxe Drivers`/`UEFI Drivers`.
 
 ### Credits:
-- [VisualUEFI By: ionescu007](https://github.com/ionescu007/VisualUefi)
-- [EDK2 By: TianoCore](https://github.com/tianocore/edk2)
+- [VisualUEFI](https://github.com/ionescu007/VisualUefi) By: [ionescu007](https://github.com/ionescu007)
+- [EDK2](https://github.com/tianocore/edk2) By: [TianoCore](https://github.com/tianocore)
 
 ### Requirements:
 - [x] [NASM (Netwide Assembler)](https://www.nasm.us/)
