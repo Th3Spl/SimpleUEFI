@@ -29,7 +29,7 @@ you can create `UEFI applications`/`Dxe Drivers`/`UEFI Drivers` projects.
 9. Open VisualStudio and search for either `Uefi Application`/`Dxe Driver`/`Uefi Driver`
 10. Create a new project using a preset and if everything worked it should compile without issues.
 
-### TODO:
-- [ ] Add qemu debugging options (Partially added).
+#### TODO:
+- [ ] Add qemu debugging options to presets (Partially added).
 
-- Th3Spl 
+-Th3Spl
