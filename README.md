@@ -13,9 +13,9 @@ allow to create `.efi` applications/Dxe Drivers/UEFI Drivers.
 - [EDK2 By: TianoCore](https://github.com/tianocore/edk2)
 
 ### Requirements:
-[x] - [NASM (Netwide Assembler)](https://www.nasm.us/)
-[x] - [Python](https://www.python.org/)
-[x] - [GIT (For submodules)](https://git-scm.com/downloads)
+- [x] [NASM (Netwide Assembler)](https://www.nasm.us/)
+- [x] [Python](https://www.python.org/)
+- [x] [GIT (For submodules)](https://git-scm.com/downloads)
 
 ### Usage:
 1. Use the command line `python Setup.py`
@@ -26,5 +26,8 @@ allow to create `.efi` applications/Dxe Drivers/UEFI Drivers.
 6. The program will automatically copy the presets in the VisualStudio templates folder
 7. Open VisualStudio and search for either `Uefi Application`/`Dxe Driver`/`Uefi Driver`
 8. Create a project using one of those presets and try to compile if everything worked it should compile without issues.
+
+### TODO:
+- [ ] Add qemu debugging options (Partially added).
 
 - Th3Spl 
