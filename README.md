@@ -25,7 +25,7 @@ you can create `UEFI applications`/`Dxe Drivers`/`UEFI Drivers` projects.
 4. The python file will automatically move all the needed files
 5. Once the program stops it will open a folder
 6. Open `EDK-II.sln` with VisualStudio and compile `(x64 Release)`
-7. Once you compiled `EDk-II.sln` click any keybind on the terminal
+7. Once you compiled `EDK-II.sln` click any keybind on the terminal
 8. The program will automatically copy the presets in the VisualStudio templates folder
 9. Open VisualStudio and search for either `Uefi Application`/`Dxe Driver`/`Uefi Driver`
 10. Create a new project using a preset and if everything worked it should compile without issues.
