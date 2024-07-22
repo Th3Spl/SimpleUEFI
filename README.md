@@ -27,7 +27,7 @@ allow to create `UEFI applications`/`Dxe Drivers`/`UEFI Drivers`.
 7. Once you compiled `EDk-II.sln` click any keybind on the terminal
 8. The program will automatically copy the presets in the VisualStudio templates folder
 9. Open VisualStudio and search for either `Uefi Application`/`Dxe Driver`/`Uefi Driver`
-10. Create a project using one of those presets and try to compile if everything worked it should compile without issues.
+10. Create a new project using a preset and if everything worked it should compile without issues.
 
 ### TODO:
 - [ ] Add qemu debugging options (Partially added).
