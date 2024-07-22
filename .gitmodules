@@ -1,0 +1,3 @@
+[submodule "MSVC_UEFI/VisualUEFI"]
+	path = MSVC_UEFI/VisualUEFI
+	url = https://github.com/ionescu007/VisualUefi
