@@ -13,10 +13,10 @@ you can create `UEFI applications`/`Dxe Drivers`/`UEFI Drivers` projects.
 - [EDK2](https://github.com/tianocore/edk2) By: [TianoCore](https://github.com/tianocore)
 
 ### Requirements:
-- [x] [NASM (Netwide Assembler)](https://www.nasm.us/)
+- [x] [NASM](https://www.nasm.us/)(Netwide Assembler)
 - [x] [Python](https://www.python.org/)
-- [x] [GIT (For submodules)](https://git-scm.com/downloads)
-- [x] [Visual Studio (Supports 2015/2019/2022)](https://visualstudio.microsoft.com/downloads/) 
+- [x] [GIT](https://git-scm.com/downloads)(For submodules)
+- [x] [Visual Studio](https://visualstudio.microsoft.com/downloads/) (Versions: 2015/2019/2022 Supported)
 
 ### Usage:
 1. Install all the requirements listed above.
