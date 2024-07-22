@@ -19,7 +19,7 @@ you can create `UEFI applications`/`Dxe Drivers`/`UEFI Drivers` projects.
 - [x] [Visual Studio](https://visualstudio.microsoft.com/downloads/) (Versions: 2015/2019/2022 Supported)
 
 ### Usage:
-1. Install all the requirements listed [above]().
+1. Install all the requirements listed [above](https://github.com/Th3Spl/SimpleUEFI/blob/main/README.md#requirements).
 2. Clone the repo using the following command `git clone https://github.com/Th3Spl/SimpleUEFI --recursive`
 3. Use the command line `python Setup.py`
 4. The python file will automatically move all the needed files
