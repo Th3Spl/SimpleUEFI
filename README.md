@@ -19,7 +19,7 @@ allow to create `UEFI applications`/`Dxe Drivers`/`UEFI Drivers`.
 
 ### Usage:
 1. Install all the requirements listed above.
-2. Clone the repo using the following command `git clone `
+2. Clone the repo using the following command `git clone https://github.com/Th3Spl/SimpleUEFI --recursive`
 3. Use the command line `python Setup.py`
 4. The python file will automatically move all the needed files
 5. Once the program stops it will open a folder
