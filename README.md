@@ -32,4 +32,4 @@ you can create `UEFI applications`/`Dxe Drivers`/`UEFI Drivers` projects.
 #### TODO:
 - [ ] Add qemu debugging options to presets (Partially added).
 
--Th3Spl
+- Th3Spl
