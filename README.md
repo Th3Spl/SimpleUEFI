@@ -33,4 +33,6 @@ you can create `UEFI applications`/`Dxe Drivers`/`UEFI Drivers` projects.
 #### TODO:
 - [ ] Add qemu debugging options to presets (Partially added).
 
+##### Ps:
+If you encounter any issue feel free to contact me.
 - Th3Spl
