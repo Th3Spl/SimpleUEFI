@@ -11,3 +11,20 @@ allow to create `.efi` applications/Dxe Drivers/UEFI Drivers.
 ### Credits:
 - [VisualUEFI By: ionescu007](https://github.com/ionescu007/VisualUefi)
 - [EDK2 By: TianoCore](https://github.com/tianocore/edk2)
+
+### Requirements:
+[x] - [NASM (Netwide Assembler)](https://www.nasm.us/)
+[x] - [Python](https://www.python.org/)
+[x] - [GIT (For submodules)](https://git-scm.com/downloads)
+
+### Usage:
+1. Use the command line `python Setup.py`
+2. The python file will automatically move all the needed files
+3. Once the program stops it will open a folder
+4. Open `EDK-II.sln` with VisualStudio and compile `(x64 Release)`
+5. Once you compiled `EDk-II.sln` click any keybind on the terminal
+6. The program will automatically copy the presets in the VisualStudio templates folder
+7. Open VisualStudio and search for either `Uefi Application`/`Dxe Driver`/`Uefi Driver`
+8. Create a project using one of those presets and try to compile if everything worked it should compile without issues.
+
+- Th3Spl 
