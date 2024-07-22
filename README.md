@@ -19,14 +19,15 @@ allow to create `UEFI applications`/`Dxe Drivers`/`UEFI Drivers`.
 
 ### Usage:
 1. Install all the requirements listed above.
-2. Use the command line `python Setup.py`
-3. The python file will automatically move all the needed files
-4. Once the program stops it will open a folder
-5. Open `EDK-II.sln` with VisualStudio and compile `(x64 Release)`
-6. Once you compiled `EDk-II.sln` click any keybind on the terminal
-7. The program will automatically copy the presets in the VisualStudio templates folder
-8. Open VisualStudio and search for either `Uefi Application`/`Dxe Driver`/`Uefi Driver`
-9. Create a project using one of those presets and try to compile if everything worked it should compile without issues.
+2. Clone the repo using the following command `git clone `
+3. Use the command line `python Setup.py`
+4. The python file will automatically move all the needed files
+5. Once the program stops it will open a folder
+6. Open `EDK-II.sln` with VisualStudio and compile `(x64 Release)`
+7. Once you compiled `EDk-II.sln` click any keybind on the terminal
+8. The program will automatically copy the presets in the VisualStudio templates folder
+9. Open VisualStudio and search for either `Uefi Application`/`Dxe Driver`/`Uefi Driver`
+10. Create a project using one of those presets and try to compile if everything worked it should compile without issues.
 
 ### TODO:
 - [ ] Add qemu debugging options (Partially added).
